@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fractalxg)](https://github.com/fractalxg/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fractalxg&layout=compact)
 
 ## Tecnologias que utilizo diariamente 👨🏽‍💻
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
