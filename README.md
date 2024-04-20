@@ -1,3 +1,5 @@
+<div align="center">
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fractalxg&layout=compact)
 
 ## Stack
@@ -13,3 +15,5 @@
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+</div>
